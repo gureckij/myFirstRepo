@@ -6,5 +6,6 @@ const myFunc = () => {
 
 myFunc();
 
+console.log("master");
 
 //  изменение
