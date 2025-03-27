@@ -5,3 +5,6 @@ const myFunc = () => {
 };
 
 myFunc();
+
+
+//  изменение
